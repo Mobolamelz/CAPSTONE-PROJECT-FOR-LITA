@@ -107,13 +107,6 @@ Total orders: COUNT('Sales Fact'[Orders ID])
 
 ### DATA VISUALIZATION
 
-Bar/Column Charts: Effectively compare quantities across categories.
-Line Charts: Clearly display trends over time.
-Donut Charts: Provide insights into percentage distribution.
-Tree Map: Offer detailed data views.
-Using Slicers and Filters: Enhance user-driven filtering by adding slicers (e.g., Region)
-
-![IMG_3672](https://github.com/user-attachments/assets/c6fa1fb1-f4a8-4544-bda6-a3fa5183e9ed)
 ![Capstone 1](https://github.com/user-attachments/assets/0990abf8-c125-440c-bf58-40003b85b6a5)
 ![Sales Report ](https://github.com/user-attachments/assets/12a8b079-383e-4350-a32e-d8b3665f9d4a)
 ![Sales Report](https://github.com/user-attachments/assets/c3bc943f-6da0-4211-9752-3f841f16b4a2)
