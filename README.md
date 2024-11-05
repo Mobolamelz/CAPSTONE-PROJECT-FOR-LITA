@@ -1,6 +1,8 @@
 # CAPSTONE-PROJECT-FOR-LITA
 ### PROJECT TITLE: ECOMMERCE SALES ANALYSIS
 ### TABLE OF CONTENT
+
+
 [PROJECT OVERVIEW](#project-overview)
 
 [DATA COLLECTED](#data-collected)
@@ -9,7 +11,7 @@
 
 [KEY METRICS](#key-metrics)
 
-[TOOLS & METHODS USED](tools-&-methods-used)
+[TOOLS & METHODS USED](#tools-&-methods-used)
 
 [DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning)
 
@@ -19,7 +21,7 @@
 
 [DATA VISUALIZATION](#data-visualization)
 
-[RECOMM
+[RECOMMENDATION](#recommendation)
 
 ![IMG_3677](https://github.com/user-attachments/assets/aec85330-3d62-4c30-a977-ba4d75605af6)
 
@@ -111,6 +113,11 @@ Tree Map: Offer detailed data views.
 Using Slicers and Filters: Enhance user-driven filtering by adding slicers (e.g., Region)
 
 ![IMG_3672](https://github.com/user-attachments/assets/c6fa1fb1-f4a8-4544-bda6-a3fa5183e9ed)
+![Capstone 1](https://github.com/user-attachments/assets/0990abf8-c125-440c-bf58-40003b85b6a5)
+![Sales Report ](https://github.com/user-attachments/assets/12a8b079-383e-4350-a32e-d8b3665f9d4a)
+![Sales Report](https://github.com/user-attachments/assets/c3bc943f-6da0-4211-9752-3f841f16b4a2)
+![Sales Report 4](https://github.com/user-attachments/assets/00c277b9-1bf8-4c82-b685-55843d766339)
+
 
 ### RECOMMENDATION
 Focus on Region-specific strategies The best-selling Region should have a meeting to speak on how they make large sales and what they do differently
