@@ -11,6 +11,16 @@
 
 [TOOLS & METHODS USED](tools-&-methods-used)
 
+[DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning)
+
+[DATA MODELLING](#data-modelling)
+
+[CALCULATION AND ANALYSIS WITH DAX](#calculation-and-analysis-with-dax)
+
+[DATA VISUALIZATION](#data-visualization)
+
+[RECOMM
+
 ![IMG_3677](https://github.com/user-attachments/assets/aec85330-3d62-4c30-a977-ba4d75605af6)
 
 ### PROJECT OVERVIEW
@@ -54,6 +64,7 @@ The pivot table effectively summarizes total sales by product, region, and month
 ![IMG_3676](https://github.com/user-attachments/assets/82fb16ef-79df-4924-838a-615d3ba84ace)
 
 - STRUCTURES QUERY LANGUAGE TOOL-SQL
+  
 SQL (Structured Query Language) was used to extract and analyze data from the retail store dataset.
 Retrieve Total Sales for Each Product Category Use SUM(sales_amount) to calculate total sales.
 Group by category to get totals for each unique category. Find the Number of Sales Transactions in Each Region
@@ -65,8 +76,6 @@ Find the Top 5 Customers by Total Purchase Amount Sum sales by customer_id. Orde
 Calculate the Percentage of Total Sales Contributed by Each Region First, calculate regional sales using SUM. Then divide by total sales using a subquery.
 
 - Github for porfolio building
-
-  ### SKILLS
   
 ![IMG_3674](https://github.com/user-attachments/assets/4ecee25c-7b04-4d4b-be36-90300e25ce28)
 ![IMG_3673](https://github.com/user-attachments/assets/ae5d5594-fcab-4c87-b036-66147d71027a)
@@ -87,7 +96,7 @@ Use Star Schema or Snowflake Schema: Connect a sales fact table to dimension tab
 Creating Measures and Calculated Columns:
 Measures: Empower dynamic calculations based on report filters (e.g. total revenue, total quantity, and transaction).
 Calculated Columns: Utilize static calculations that don’t change based on report filters (e.g. Revenue, Day of week, Period of day).
-FORMULA USED:
+### FORMULA USED:
 Revenue Calculation: Revenue = SUM(Sales[Quantity]) * SUM(Sales[Price per Unit])
 Total revenue: SUM('Sales Fact'[Revenue])
 Total of quantity: SUM('Sales Fact'[Quantity])
