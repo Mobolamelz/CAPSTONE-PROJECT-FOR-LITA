@@ -13,7 +13,7 @@
 
 [TOOLS & METHODS USED](#tools-&-methods-used)
 
-[DATA PREPARATION AND CLEANING](#data-preparationandcleaning)
+[DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning)
 
 [DATA MODELLING](#data-modelling)
 
