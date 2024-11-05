@@ -1,4 +1,11 @@
 # CAPSTONE-PROJECT-FOR-LITA
+### PROJECT TITLE: ECOMMERCE SALES ANALYSIS
+### TABLE OF CONTENT
+[PROJECT OVERVIEW](#project-overview)
+[DATA COLLECTED](#data-collected)
+[OBJECTIVE OF THIS PROJECT](#objective-of-this-project)
+[KEY METRICS](#key-metrics)
+[TOOLS & METHODS USED](tools-&-methods-used)
 
 ![IMG_3677](https://github.com/user-attachments/assets/aec85330-3d62-4c30-a977-ba4d75605af6)
 ### PROJECT OVERVIEW
@@ -31,13 +38,18 @@ Sales Growth Rate: This measures the percentage increase in sales revenue over a
 Sales Performance Over Time: This involves analyzing trends over different time frames (daily, weekly, monthly) to identify peak sales periods.
 
 ### TOOLS & METHODS USED
-#### SPREADSHEET
+- Microsoft Excel [Download here](https://microsoft.com)
+  1. for data cleaning
+  2. Data visualization
+  3. Analysis of data
+  4. Calculation
+  
 The pivot table effectively summarizes total sales by product, region, and month, highlighting key trends. Additionally, Excel formulas are used to calculate average sales per product and total revenue by region, providing valuable insights into sales performance.
 
 ![IMG_3675](https://github.com/user-attachments/assets/a73b607f-0598-4898-9cfa-9b9dacdd88cd)
 ![IMG_3676](https://github.com/user-attachments/assets/82fb16ef-79df-4924-838a-615d3ba84ace)
 
-### STRUCTURES QUERY LANGUAGE TOOL-SQL
+- STRUCTURES QUERY LANGUAGE TOOL-SQL
 SQL (Structured Query Language) was used to extract and analyze data from the retail store dataset.
 Retrieve Total Sales for Each Product Category Use SUM(sales_amount) to calculate total sales.
 Group by category to get totals for each unique category. Find the Number of Sales Transactions in Each Region
@@ -48,6 +60,10 @@ Calculate Monthly Sales Totals for the Current Year Filter by current year using
 Find the Top 5 Customers by Total Purchase Amount Sum sales by customer_id. Order by total in descending orde
 Calculate the Percentage of Total Sales Contributed by Each Region First, calculate regional sales using SUM. Then divide by total sales using a subquery.
 
+- Github for porfolio building
+
+  ### SKILLS
+  
 ![IMG_3674](https://github.com/user-attachments/assets/4ecee25c-7b04-4d4b-be36-90300e25ce28)
 ![IMG_3673](https://github.com/user-attachments/assets/ae5d5594-fcab-4c87-b036-66147d71027a)
 
