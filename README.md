@@ -77,10 +77,11 @@ Calculate Monthly Sales Totals for the Current Year Filter by current year using
 Find the Top 5 Customers by Total Purchase Amount Sum sales by customer_id. Order by total in descending orde
 Calculate the Percentage of Total Sales Contributed by Each Region First, calculate regional sales using SUM. Then divide by total sales using a subquery.
 
-- Github for porfolio building
   
 ![IMG_3674](https://github.com/user-attachments/assets/4ecee25c-7b04-4d4b-be36-90300e25ce28)
 ![IMG_3673](https://github.com/user-attachments/assets/ae5d5594-fcab-4c87-b036-66147d71027a)
+
+-Github for porfolio building
 
 ### DATA PREPARATION AND CLEANING WITH POWER BI
 Data Import: Import data from Excel
