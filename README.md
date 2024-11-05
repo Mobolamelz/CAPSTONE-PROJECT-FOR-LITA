@@ -13,11 +13,11 @@
 
 [TOOLS & METHODS USED](#tools-&-methods-used)
 
-[DATA PREPARATION AND CLEANING](#data-preparation-and-cleaning)
+[DATA PREPARATION AND CLEANING](#data-preparationandcleaning)
 
 [DATA MODELLING](#data-modelling)
 
-[CALCULATION AND ANALYSIS WITH DAX](#calculation-and-analysis-with-dax)
+[CALCULATION AND ANALYSIS WITH DAX](#calculationandanalysis-with-dax)
 
 [DATA VISUALIZATION](#data-visualization)
 
@@ -81,7 +81,7 @@ Calculate the Percentage of Total Sales Contributed by Each Region First, calcul
 ![IMG_3674](https://github.com/user-attachments/assets/4ecee25c-7b04-4d4b-be36-90300e25ce28)
 ![IMG_3673](https://github.com/user-attachments/assets/ae5d5594-fcab-4c87-b036-66147d71027a)
 
--Github for porfolio building
+- Github for porfolio building
 
 ### DATA PREPARATION AND CLEANING WITH POWER BI
 Data Import: Import data from Excel
